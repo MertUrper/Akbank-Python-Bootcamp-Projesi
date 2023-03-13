@@ -1,0 +1,16 @@
+* Lütfen Pizzanızı Seçiniz:
+1: Klasik Pizza ---> 90.0
+2: Margarita ------> 110.0
+3: Türk Pizza -----> 100.0
+4: Sade Pizza -----> 80.0
+
+* Seçmek İstediğiniz Ekstra Malzemeler:
+1: Zeytin ------> 8.0
+2: Mantar ------> 14.0
+3: Peynir ------> 12.0
+4: Pastırma ----> 18.0
+5: Soğan -------> 6.0
+6: Mısır -------> 10.0
+7: Ton Balığı --> 20.0
+
+* Şimdiden Bizi Tercih Ettiğiniz İçin Teşekkür Ederiz!
